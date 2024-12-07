@@ -1,3 +1,3 @@
 This is the README file for the Hello-world project.
 
-Author's email: pooujky@gmail.com
+Author's email: pooujky@naver.com
